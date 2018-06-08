@@ -4,7 +4,7 @@
   "repository": "git@github.com:tssm/number-to-spanish-words.git",
   "author": "Tae Sandoval <tssm@users.noreply.github.com>",
   "license": "CC0-1.0",
-  "main": "build/main.js",
+  "main": "src/main.js",
   "dependencies": {
     "ramda": "^0.23.0"
   },
