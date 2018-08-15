@@ -6,7 +6,7 @@ my case so I decided to jump from alpha to stable.
 
 # Install
 
-    npm install number-to-spanish-words
+    npm install -S https://github.com/edu526/number-to-spanish-words.git
 
 # Usage
 
